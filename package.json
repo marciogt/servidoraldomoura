@@ -1,0 +1,14 @@
+{
+  "name": "serveraldo",
+  "version": "1.0.0",
+  "description": "servidor para aldo avaliar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Márcio Maia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
